@@ -18,3 +18,7 @@ Server Tools: Django, ASP.NET Core, Flask
 Django provides an API for clients. Buttons on a controller to interact w/ the server data.
 
 ***
+
+REST Frameworks
+
+https://stackoverflow.com/questions/49109791/django-or-django-rest-framework
