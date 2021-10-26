@@ -20,5 +20,19 @@ Django provides an API for clients. Buttons on a controller to interact w/ the s
 ***
 
 REST Frameworks
+- REST - REpresentational State Transfer
+- A style of design that makes it easier for computer systems to communicate
+- Separation of Client and Server. Client and server can be changed without
+affecting each other's operation.
+- Stateless Systems - servers and clients don't need to know what state the other is in
+- This is achieved by describing objects instead of defining them (think HTPP Request)
+
+Why use REST Frameworks?
+If you want to have a website where users can make changes to info stored on the backend, you'd
+want them to be able to do so in any OS.
+
+If you want to just have a simple webpage that displays data, only using a framework is fine.
+
+
 
 https://stackoverflow.com/questions/49109791/django-or-django-rest-framework
