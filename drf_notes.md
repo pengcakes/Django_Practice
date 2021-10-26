@@ -15,3 +15,7 @@ To-do list to create a REST API in Django
     Set up the Django REST Framework
     Serialize the model from step 2
     Create the URI endpoints to view the serialized data
+
+
+Views vs Viewsets: https://stackoverflow.com/questions/32589087/difference-between-views-and-viewsets
+	- Seems like viewsets are easier, only need to efine one pattern in urls.py 
